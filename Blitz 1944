@@ -1,0 +1,24 @@
+Perintah untuk aplikasi git
+
+[buat akun git]
+
+git config --global user.name "paiqpaikpaiq"
+git config --global user.email "faiqibni195@gmail.com"
+git config --list
+
+hapus credensial windows
+
+
+untuk pull
+
+git clone https://github.com/masebet/Samsung_semesterSatu_SesiDua.git
+
+
+untuk push
+
+[add file]
+
+git add.
+git commit - "server jdango test"
+git push origin main
+git log
